@@ -16,8 +16,8 @@ This data was downloaded from kaggle: https://www.kaggle.com/datasets/zahidmugha
 
 ## 🔄 Workflow Process
 1. **Data Loading:** Import the data from csv file to SQL server  
-2. **Data Cleaning & Preprocessing:** Change format date column from this format '2020-01-06 00:00:00.0000000' to this format '2020-01-06', Add new column 'Price_before_discount' with formula 'Price = Price / (1 - Discount), Change data type column 'Units_Returned' From Nvarchar to Int, ADD Column 'Revenue_before_disc' 
-3. **Exploratory Data Analysis (EDA)**
+2. **Data Cleaning & Preprocessing:** Change format date column from this format '2020-01-06 00:00:00.0000000' to this format '2020-01-06', Add new column 'Price_before_discount' with formula 'Price = Price / (1 - Discount), Change data type column 'Units_Returned' From Nvarchar to Int, Add Column 'Revenue_before_disc' 
+3. **Exploratory Data Analysis (EDA)** using queries like `CTE, Aggregation, Subqueries, Window Function and Set Operator Union All`
 
 ## 🔍 Key Insights & Findings
 1. Product supplements generate the `most revenue` are 'Biotin, Zinc, Pre-Workout, BCAA, Fish Oil' and Product supplements generate the `least revenue` are 'Magnesium, Multivitamin, Melatonin, Ashwagandha, Electrolyte Powder'
