@@ -38,8 +38,8 @@ All SQL scripts are organized below, showcasing the analytical progression:
 
 | File | Description |
 | :--- | :--- |
-| `udemy_courses.csv` | Original raw dataset from Kaggle. |
-| `udemy_analysis_queries.sql` |
+| `Supplement_Sales_Weekly_Expanded.csv` | Original raw dataset from Kaggle. |
+| `Supplement Sales Project.sql` |
 
 ## View the Full Analysis
 Full project code and detailed SQL scripts are available in the repository folders. I'm open to connect and discuss this project! 👇
