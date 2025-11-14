@@ -1,1 +1,1 @@
-# Supplement-Sales-Exploratory-Data-Analysis
+# Supplement Sales Exploratory Data Analysis
