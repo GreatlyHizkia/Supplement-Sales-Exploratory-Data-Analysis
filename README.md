@@ -1,7 +1,7 @@
 # Supplement Sales Exploratory Data Analysis - SQL Server
 
 ## Project Overview
-For this project, I performed data cleaning and exploratory data analysis and uncovered trends using SQL Server.
+For this project, I performed data cleaning, exploratory data analysis and uncovered trends using SQL Server.
 
 **Key Business Questions Addressed:**
 1. Which product supplements generate the most revenue and the least revenue? 
