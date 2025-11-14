@@ -22,7 +22,7 @@ This data was downloaded from kaggle: https://www.kaggle.com/datasets/zahidmugha
 ## 🔍 Key Insights & Findings
 1. Product supplements generate the `most revenue` are 'Biotin, Zinc, Pre-Workout, BCAA, Fish Oil' and Product supplements generate the `least revenue` are 'Magnesium, Multivitamin, Melatonin, Ashwagandha, Electrolyte Powder'
 2. Supplement categories are purchased `most often` are 'Mineral, Vitamin, Performance' and Supplement categories are purchased `least often` are 'Fat Burner, Amino Acid, Hydartion'
-3. Locations that sell the most products and generate the most revenue each is (UK in 2020,2021 and 2023, Canada in 2022,2024 and 2025)
+3. Locations that sell the most products and generate the most revenue is (UK in 2020,2021 and 2023, Canada in 2022,2024 and 2025)
 4. Products which were returned the most by customers are 'Vitamin C, Electrolyte Powder, and Magnesium'
 5. In Canada customers tend to use platform 'Amazon', in UK customers tend to use 'iHerb', and in USA they use 'Amazon'.
 
